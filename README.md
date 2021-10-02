@@ -95,6 +95,10 @@ const langauges = jusText.getLanguages(); // lowercase english, spanish, german,
 const stoplist = jusText.getStoplist("english"); // returns english stoplist, returns empty array if language isn't available
 ```
 
+# Language Detection
+
+For language detection, you can use `@smodin/fast-text-language-detection` for best results on Node, or any smaller alternatives like `languagedetect` on the browser.
+
 # TODO
 
 ## python source updates / functionality to be included
