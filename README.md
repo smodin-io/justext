@@ -117,6 +117,10 @@ For language detection, you can use `@smodin/fast-text-language-detection` for b
 
 - short paragraphs are included when they shouldn't be. This short text logic needs to be updated to be like the source
 
+## Other Features
+
+- Version without stopwords bundled together
+
 ## History
 
 - Version 0.0.1 - Convert from python code
