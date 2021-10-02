@@ -1,5 +1,5 @@
 {
-  "name": "justext",
+  "name": "@smodin/justext",
   "version": "0.0.3",
   "description": "Program jusText is a tool for removing boilerplate content, such as navigation links, headers, and footers from HTML pages.",
   "main": "dist/justext.js",
@@ -17,21 +17,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jellydn/justext.git"
+    "url": "https://github.com/smodin-io/justext.git"
   },
   "keywords": [
     "justext"
   ],
-  "author": "Dung Huynh<dunghd.it@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jellydn/justext/issues"
+    "url": "https://github.com/smodin-io/justext/issues"
   },
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/jellydn/justext",
+  "homepage": "https://github.com/smodin-io/justext",
   "dependencies": {
     "axios": "^0.16.2",
     "html-entities": "^1.2.0",
