@@ -1,6 +1,6 @@
 {
   "name": "@smodin/justext",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Program jusText is a tool for removing boilerplate content, such as navigation links, headers, and footers from HTML pages.",
   "main": "dist/justext.js",
   "module": "dist/justext.mjs",
